@@ -71,6 +71,6 @@ WindmillVillage/
 - Implement shadow effects using shearing for more realism.
 
 ## Contributors
-- **Mahathir F Nabil** - [183120016]
-- **Faria Afroz Muskan** - [183120019]
+- **Mahathir F Nabil** 
+- **Faria Afroz Muskan** 
 
